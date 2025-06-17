@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Harshavardhini - Web Developer Portfolio</title>
+  <style>
+    /* (CSS remains unchanged, not repeated here for brevity) */
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Left Panel -->
+    <div class="profile-section">
+      <div class="profile-image">👩‍💻</div>
+      <div class="name">Harshavardhini</div>
+      <div class="title">Web Developer</div>
+      <div class="contact-info">
+        <div class="contact-item">
+          <span class="contact-label">📍 Location:</span><br>
+          Guntur, India
+        </div>
+        <div class="contact-item">
+          <span class="contact-label">📞 Phone:</span><br>
+          9963513278
+        </div>
+        <div class="contact-item">
+          <span class="contact-label">📧 Email:</span><br>
+          adapalaharshavardhini588@gmail.com
+        </div>
+        <div class="contact-item">
+          <span class="contact-label">🌐 LinkedIn:</span><br>
+          <a href="https://www.linkedin.com/in/adapala-harshavardhini-2bb722301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Visit My LinkedIn Profile</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right Panel -->
+    <div class="content">
+      <section class="section">
+        <h2 class="section-title">Educational Details</h2>
+        <table class="education-table">
+          <thead>
+            <tr>
+              <th>Degree</th>
+              <th>Institution</th>
+              <th>Year</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>B.Tech - CSE</td>
+              <td>ABC University</td>
+              <td>2022 - 2026</td>
+            </tr>
+            <tr>
+              <td>Intermediate</td>
+              <td>Narayana Junior College</td>
+              <td>2020 - 2022</td>
+            </tr>
+            <tr>
+              <td>SSC</td>
+              <td>Viswasanthi High School</td>
+              <td>2019</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">My Strengths & Areas for Growth</h2>
+        <div class="skills-container">
+          <div>
+            <h3 style="color: #2ecc71;">Strengths</h3>
+            <ul class="skills-list">
+              <li>Adaptable</li>
+              <li>Strong Problem Solver</li>
+              <li>Effective Communicator</li>
+              <li>Positive Attitude</li>
+            </ul>
+          </div>
+          <div>
+            <h3 style="color: #e74c3c;">Areas to Improve</h3>
+            <ul class="skills-list negatives">
+              <li>Sometimes Overthinking</li>
+              <li>Impatience in Long Tasks</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">Achievements</h2>
+        <div class="achievements-box">
+          <div class="achievement-item">🏆 Finalist at National Hackathon 2024</div>
+          <div class="achievement-item">🚀 Built a Personal Portfolio Website</div>
+          <div class="achievement-item">📜 Completed Web Dev Bootcamp with Honors</div>
+        </div>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
